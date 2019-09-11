@@ -14,6 +14,7 @@ import sys
 import re
 import argparse
 
+__author__ = "Patterson Day w/guidance from astephens91"
 """
 Define the extract_names() function below and change main()
 to call it.
